@@ -64,14 +64,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 mkdir %userprofile%\Desktop\DocBackup
 copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 echo Backup completed successfully!
-
-
-
-
-
-
 ## OUTPUT
-
 ![Screenshot 2024-04-25 133507](https://github.com/PremkumarG3/Windows-basic-commands-batchscript/assets/138955646/7dc8c005-1de7-48b0-8aae-805122837df5)
 
 
